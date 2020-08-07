@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+As someone who loves to spend time hiking, swimming, camping, and exploring the outdoors, I've always wanted an app that I can use to find cool and nearby sites that I haven't been to before. This app will give users the ability to find locations near them(Missouri only), upload information about their favorite locations, share a bit about themselves, and potentially even find a hiking buddy. 
+
 ### Features
-Include Features here
+<b>User login:</b> Users can create and authenticate an account. Their profile will include a photo and "about me" section.<br>
+<b>Add site information: </b>can add locations and include relevant information such as photos, feautures, activities, accessibility, last time they've been there, etc.<br>
+<b>Add to existing site: </b>user can add their own information to an existing location.<br>
+<b>Add friend: </b>Users can friend each other.<br>
+<b>Like a location: </b>Users can "favorite" a location and saves the location to a list specific to each user called "Favorites".<br>
+
 ### Technologies
-Include Technologies here
+Java <br>
+MySQL<br>
+Springboot<br>
+Thymeleaf templates<br>
+Hibernate<br>
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+-For this project, I'll have to learn how how to create the "Like a location" feature. I believe the "Add friend" feature will be similar to this one.<br>
+-I will also need to learn how to allow a user to add information to an existing location. I'm not sure yet how this information will show on the page. Maybe it will be in a comments section.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/87IA6cDc/5082a97b5ce3bee72913f6fff5c0ad06/liftoff-project<br>
+  this is incomplete.
