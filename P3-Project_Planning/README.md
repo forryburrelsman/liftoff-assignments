@@ -7,12 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
+<ul>
+  <li><img src="https://drive.google.com/file/d/1CeTQjsx9qX8jlT-_P_5zPeZqOwyZZyQo/view?usp=sharing"></li>
+  <li></li>
+  <li></li>
+</ul>
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/87IA6cDc/liftoff-project
 
 ### Project Repo Link
 
