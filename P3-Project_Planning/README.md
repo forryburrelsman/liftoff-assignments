@@ -16,4 +16,4 @@ https://trello.com/b/87IA6cDc/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/forryburrelsman/site-finder
