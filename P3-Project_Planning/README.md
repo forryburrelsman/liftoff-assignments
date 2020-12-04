@@ -7,13 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-- [Login page](https://photos.app.goo.gl/tyuLS3i6Rr2zNSgi9)
-- [View Site](https://photos.app.goo.gl/jf5YQXve21FnE5fy8)
-- [Create Account](https://photos.app.goo.gl/ZaK9djeCGdgYc6PQA)
+-
+
+
 
 ### Project Tracker
-https://trello.com/b/87IA6cDc/liftoff-project
+https://trello.com/b/WP5zQwdf/hidden-gem-travel-spots
 
 ### Project Repo Link
-
-https://github.com/forryburrelsman/site-finder
+https://github.com/forryburrelsman/HiddenGemTravelSpots
